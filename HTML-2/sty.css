@@ -1,0 +1,41 @@
+Body {
+    background-image: linear-gradient(990deg, rgb(26, 26, 26),rgb(0, 0, 0));
+    color: rgb(255, 255, 255);
+    
+}
+
+img{
+    height: 8cm;
+    width: 8cm;
+    border-radius: 10cm;
+    border-style: ridge;
+    border-color: rgb(7, 169, 233);
+}
+
+.center {
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    list-style-type: none;
+}
+
+a{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+ }
+
+ h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+ }
+
+ h2{
+    font-size: xx-large;
+    text-decoration: underline;
+ }
